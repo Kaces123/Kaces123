@@ -1,4 +1,4 @@
-- 👋 Hi, I am Karolis, im  22 years old.
+- 👋 Hi, I am Karolis, im  23 years old.
 - 👀 I’m interested in software engineering and quality assurance.
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
